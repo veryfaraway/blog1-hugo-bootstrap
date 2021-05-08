@@ -62,7 +62,7 @@ brew install wget
 |install|패키지를 설치합니다.|
 |uninstall|패키지를 삭제합니다. uninstall 대신 rm 또는 remove 사용 가능.|
 |list|설치된 패키지 리스트를 확인합니다.|
-|pin|upgrade 명령시 새로운 버전이 있으면 패키지를 무조건 업그레이드 하는데 만약 어떤 이유에 의해서 특정 버전을 계속해서 사용하고 싶을 때 사용하는 명령  <br/>  예) brew pin tomcat|
+|pin|upgrade 명령시 새로운 버전이 있으면 패키지를 무조건 업그레이드 하는데 만약 어떤 이유에 의해서 특정 버전을 계속해서 사용하고 싶을 때 사용하는 명령  예) brew pin tomcat|
 |unpin|pin으로 고정된 패키지를 해제할 경우 사용|
 
 더 자세한 정보는
