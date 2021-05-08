@@ -11,6 +11,7 @@ tags = [
     "OTT"
 ]
 images = [
+    "images/media.png"
 ]
 reward = false
 featured = false
