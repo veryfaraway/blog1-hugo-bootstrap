@@ -1,0 +1,4 @@
+dateFormat = "2006-01-02"
+description = "일하거나 공부하다가 얻은 노하우를 공유하기 위한 개인블로그"
+[archive]
+  dateFormat = "01-02"

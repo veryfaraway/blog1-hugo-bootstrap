@@ -1,0 +1,7 @@
+name = "야근반장"
+# Avatar image. Default to "images/profile.webp".
+#avatar = "images/anger_profile.webp" 
+avatar = "images/anger_profile_red_bg.jpg"
+bio = "Sr. Data Engineer"
+company = "ViewTreeFull, Inc"
+location = "Seoul, Korea"

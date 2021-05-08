@@ -1,0 +1,5 @@
+# settings to add only directory
+# ignore all files
+*
+# add only .gitignore
+!.gitignore
