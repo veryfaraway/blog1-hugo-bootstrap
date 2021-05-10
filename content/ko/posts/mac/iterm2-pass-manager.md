@@ -16,7 +16,7 @@ images = [
 ]
 reward = false
 featured = false
-draft = true
+draft = false
 +++
 
 맥용 터미널 에뮬레이터 [iTerm2][1]가 얼마전 3.0 버전으로 업데이트 됐습니다. iTerm3로 발표될 줄 알았는데 버전이 3.0으로 올라갔습니다.
