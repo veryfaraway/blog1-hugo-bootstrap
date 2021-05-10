@@ -1,8 +1,0 @@
-[[main]]
-  name = "下拉菜单"
-  identifier = "dropdown"
-[[main]]
-  parent = "dropdown"
-  name = "Github"
-  url = "https://github.com/razonyang/hugo-theme-bootstrap"
-  pre = '<i class="fab fa-fw fa-github"></i>'

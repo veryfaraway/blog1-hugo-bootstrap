@@ -13,7 +13,7 @@ tags = [
     "Package manager",
 ]
 images = [
-  "images/mac.png"
+  "images/thumbnail/mac.png"
 ]
 reward = false
 draft = false
